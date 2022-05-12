@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/timer-shop/static/css/main.4dea029f.css",
-    "main.js": "/timer-shop/static/js/main.b9e0235d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/timer-shop/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/timer-shop/index.html",
-    "main.4dea029f.css.map": "/timer-shop/static/css/main.4dea029f.css.map",
-    "main.b9e0235d.js.map": "/timer-shop/static/js/main.b9e0235d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/timer-shop/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.4dea029f.css",
+    "main.js": "/static/js/main.0669f074.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/index.html",
+    "main.4dea029f.css.map": "/static/css/main.4dea029f.css.map",
+    "main.0669f074.js.map": "/static/js/main.0669f074.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dea029f.css",
-    "static/js/main.b9e0235d.js"
+    "static/js/main.0669f074.js"
   ]
 }
