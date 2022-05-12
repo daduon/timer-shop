@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/timer-shop/static/css/main.4dea029f.css",
+    "main.js": "/timer-shop/static/js/main.b9e0235d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/timer-shop/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/timer-shop/index.html",
+    "main.4dea029f.css.map": "/timer-shop/static/css/main.4dea029f.css.map",
+    "main.b9e0235d.js.map": "/timer-shop/static/js/main.b9e0235d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/timer-shop/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dea029f.css",
+    "static/js/main.b9e0235d.js"
+  ]
+}
